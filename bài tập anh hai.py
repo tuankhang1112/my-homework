@@ -1,0 +1,6 @@
+tiền = (int(15000))
+ten = input("Điền tên của bạn :  ")
+số_lượng =(int (input("Điền số quyển sách bạn muốn mua là :  ")))
+tổng = (str(tiền*số_lượng))
+print("Một quyển sách là 15000vnđ")
+print("Vậy tổng số tiền mà " + ten + " mua là :  " + tổng + "vnđ")
